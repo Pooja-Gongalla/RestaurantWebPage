@@ -1,7 +1,6 @@
 import React from 'react'
 import Layout from '../Components/Layout/Layout'
 import { Box,Typography} from '@mui/material'
-import { Margin } from '@mui/icons-material'
 const About = () => {
   return (
     <Layout>
